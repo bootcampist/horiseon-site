@@ -12,7 +12,7 @@ N/A
 
 The website can be accessed by entering the url in a browser, using an assistive device where necessary.
 
-
+[https://bootcampist.github.io/horiseon-site/](https://bootcampist.github.io/horiseon-site/)
 
 ## Credits
 
@@ -20,4 +20,4 @@ N/A
 
 ## License
 
-Please refer to the LICENSE in the repo.
+Please refer to the LICENSE in the repository.
